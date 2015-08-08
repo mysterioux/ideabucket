@@ -12,7 +12,7 @@ The structure of this bucket list of ideas are structured into the following:
 	<li>Web Based Solutions</li>
 	<li>Mobile Based Solutions</li>
 	<li>Social Change Initiatives</li>
-<ol>
+</ol>
 
 CONTACT
 ========
