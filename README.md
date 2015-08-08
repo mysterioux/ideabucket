@@ -8,9 +8,11 @@ The truth is, we don't have much time here on earth. Great men like Mandela, Ste
 STRUCTURE
 ==========
 The structure of this bucket list of ideas are structured into the following:
-1. Web Based Solutions
-2. Mobile Based Solutions
-3. Social Change Initiatives
+<ol>
+	<li>1. Web Based Solutions</li>
+	<li>2. Mobile Based Solutions</li>
+	<li>3. Social Change Initiatives</li>
+<ol>
 
 CONTACT
 ========
